@@ -5,7 +5,6 @@ self.addEventListener("install", (event) => {
                 "/",
                 "/index.html",
                 "/fluffy-cat.html",
-                "/style.css",
                 "/fluffy-cat.jpg",
                 "/angy-cat.jpg",
                 "/manifest.json",
