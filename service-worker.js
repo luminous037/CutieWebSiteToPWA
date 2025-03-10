@@ -31,7 +31,7 @@ self.addEventListener("install", (event) => {
             const filesToCache = [
                 "/",
                 "/index.html",
-                "/fluffy-cat.html",
+                "/secret.html",
                 "/fluffy-cat.jpg",
                 "/angy-cat.jpg",
                 "/manifest.json",
